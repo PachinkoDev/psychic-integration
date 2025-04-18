@@ -18,8 +18,6 @@ PIP_PACKAGES=(
 NODES=(
     #"https://github.com/ltdrdata/ComfyUI-Manager"
     #"https://github.com/cubiq/ComfyUI_essentials"
-    #"https://github.com/chrisgoringe/cg-image-filter"
-    #"https://github.com/BadCafeCode/execution-inversion-demo-comfyui"
 )
 
 WORKFLOWS=(
@@ -30,6 +28,7 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/1262911?type=Model&format=SafeTensor&size=pruned&fp=fp32&token=4dc827605307fda5ecd82aad2afc9ea4"
     "https://civitai.com/api/download/models/1152657?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=4dc827605307fda5ecd82aad2afc9ea4"
     "https://civitai.com/api/download/models/142421?type=Model&format=SafeTensor&size=full&fp=fp16&token=4dc827605307fda5ecd82aad2afc9ea4"
+    "https://civitai.com/api/download/models/1410435?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=4dc827605307fda5ecd82aad2afc9ea4"
 )
 
 UNET_MODELS=(
