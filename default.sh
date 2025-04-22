@@ -35,9 +35,21 @@ UNET_MODELS=(
 )
 
 LORA_MODELS=(
+    "https://civitai.com/api/download/models/1595621?type=Model&format=SafeTensor&token=4dc827605307fda5ecd82aad2afc9ea4"
+    "https://civitai.com/api/download/models/1068713?type=Model&format=SafeTensor&token=4dc827605307fda5ecd82aad2afc9ea4"
+    "https://civitai.com/api/download/models/1352325?type=Model&format=SafeTensor&token=4dc827605307fda5ecd82aad2afc9ea4"
+    "https://civitai.com/api/download/models/1444993?type=Model&format=SafeTensor&token=4dc827605307fda5ecd82aad2afc9ea4"
+    "https://civitai.com/api/download/models/1019571?type=Model&format=SafeTensor&token=4dc827605307fda5ecd82aad2afc9ea4"
+    "https://civitai.com/api/download/models/1535875?type=Model&format=SafeTensor&token=4dc827605307fda5ecd82aad2afc9ea4"
+    "https://civitai.com/api/download/models/1125423?type=Model&format=SafeTensor&token=4dc827605307fda5ecd82aad2afc9ea4"
+    "https://civitai.com/api/download/models/1085590?type=Model&format=SafeTensor&token=4dc827605307fda5ecd82aad2afc9ea4"
+    "https://civitai.com/api/download/models/1683400?type=Model&format=SafeTensor&token=4dc827605307fda5ecd82aad2afc9ea4"
+    "https://civitai.com/api/download/models/1395511?type=Model&format=SafeTensor&token=4dc827605307fda5ecd82aad2afc9ea4"
+    "https://civitai.com/api/download/models/1169143?type=Model&format=SafeTensor&token=4dc827605307fda5ecd82aad2afc9ea4"
 )
 
 VAE_MODELS=(
+    "https://civitai.com/api/download/models/1688162?type=Model&format=SafeTensor&token=4dc827605307fda5ecd82aad2afc9ea4"
 )
 
 ESRGAN_MODELS=(
