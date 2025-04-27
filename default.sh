@@ -29,6 +29,8 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/1152657?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=4dc827605307fda5ecd82aad2afc9ea4"
     "https://civitai.com/api/download/models/142421?type=Model&format=SafeTensor&size=full&fp=fp16&token=4dc827605307fda5ecd82aad2afc9ea4"
     "https://civitai.com/api/download/models/1410435?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=4dc827605307fda5ecd82aad2afc9ea4"
+    "https://civitai.com/api/download/models/1568768?type=Model&format=SafeTensor&size=full&fp=fp16&token=4dc827605307fda5ecd82aad2afc9ea4"
+    "https://civitai.com/api/download/models/1328011?type=Model&format=SafeTensor&size=full&fp=bf16&token=4dc827605307fda5ecd82aad2afc9ea4"
 )
 
 UNET_MODELS=(
